@@ -1,3 +1,4 @@
+print('JOGO DA VELHA')
 print('Para jogar o Jogo da velha, escolha X ou O ')
 jogador1 = input('Digite sua escolha: ')
 if jogador1 not in ['X', 'O']:
